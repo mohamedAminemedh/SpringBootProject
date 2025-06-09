@@ -1,0 +1,7 @@
+com\livre\controller\LivreController.class
+com\livre\model\Livre.class
+com\livre\repository\LivreRepository.class
+com\livre\controller\LivreRestController.class
+com\livre\LivreApplication.class
+com\livre\service\LivreServiceImpl.class
+com\livre\service\LivreService.class
